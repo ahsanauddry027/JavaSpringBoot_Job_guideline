@@ -585,8 +585,7 @@ BD written tests and interviews check fundamentals hard, so this track runs alon
 - [ ] 🧠 Baseline test (90 min, no AI): 2 easy + 1 medium problem and 5 SQL queries. Write down every topic that hurt
 - [ ] Mark midterm and final weeks in your calendar; list 20 seniors or alumni at your [target companies](#-target-companies)
 
-> [!NOTE]
-> GitHub paused new **Copilot Student** sign-ups in April 2026 and hasn't given an end date. The rest of the Student Pack still works; check the pack page for what's live when you apply.
+> ℹ️ **Note:** GitHub paused new **Copilot Student** sign-ups in April 2026 and hasn't given an end date. The rest of the Student Pack still works; check the pack page for what's live when you apply.
 
 </details>
 
